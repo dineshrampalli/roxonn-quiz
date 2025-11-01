@@ -1,6 +1,6 @@
 # Roxonn Platform Introduction Quiz 
 
-Welcome to the Roxonn Platform introduction quiz repository! This repository contains a series of questions to help you understand how the Roxonn platform works and how you can earn tokens by contributing to open-source projects.
+Welcome to the Roxonn Platform introduction quiz repository! This repository contains a series of questions to help you understand how the Roxonn platform works and how you can earn tokens by contributing to open-source projects. 
 
 ## About Roxonn
 
